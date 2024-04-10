@@ -1,13 +1,14 @@
 # PacMen-Animation
 
-This project is a work in progress titled - Pacmen Animation.
+<h1>This project is a work in progress titled - Pacmen Animation.</h1>
 
-This project detects pacmen using the .png files as they move in random directions and collide with the bounds of your screen. There are two buttons that start the game, which will initialize movement of the Pacmen, and one that adds additional Pacmen to the screen, each moving in a random direction.
+<b>
+<p>This project detects pacmen using the .png files as they move in random directions and collide with the bounds of your screen. There are two buttons that start the game, which will initialize movement of the Pacmen, and one that adds additional Pacmen to the screen, each moving in a random direction.
 
-To run this program, open the html file in your local machine, add Pacmen, then click start game.
+To run this program, open the html file in your local machine, add Pacmen, then click start game.</p>
 
-Roadmap:
-Update the pac men to animate the opening and closing of their mouth at a set time interval
+<h2>Roadmap:</h2>h2>
+<p>Update the pac men to animate the opening and closing of their mouth at a set time interval
 Change the physical direction of the pac men on screen bound collision in the x axis
 
 License: MiT
@@ -31,3 +32,5 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</p>
+</b>
