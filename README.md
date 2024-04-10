@@ -7,7 +7,7 @@
 
 To run this program, open the html file in your local machine, add Pacmen, then click start game.</p>
 
-<h2>Roadmap:</h2>h2>
+<h2>Roadmap:</h2>
 <p>Update the pac men to animate the opening and closing of their mouth at a set time interval
 Change the physical direction of the pac men on screen bound collision in the x axis
 
